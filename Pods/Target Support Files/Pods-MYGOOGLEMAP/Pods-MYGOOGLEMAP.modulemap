@@ -1,0 +1,6 @@
+framework module Pods_MYGOOGLEMAP {
+  umbrella header "Pods-MYGOOGLEMAP-umbrella.h"
+
+  export *
+  module * { export * }
+}
